@@ -24,7 +24,7 @@
 
 I am a **Computer Science Undergraduate** at **MBM University (Class of '27)** and a passionate Full Stack Developer. I thrive on solving complex algorithmic problems and building scalable distributed systems.
 
-- ⚔️ **LeetCode Knight:** Max Rating **1953** (Top 3.18% Globally).
+- ⚔️ **LeetCode Knight:** Max Rating **1960** (Top 3.07% Globally).
 - 🏛️ **Community Leader:** Founder of **SPARK Coding Community** & Hackathon Coordinator.
 - 🔭 **Currently Working on:** Integrating **AI/ML** into full-stack applications.
 - 🌱 **Learning:** Distributed Systems, System Design, and Cloud Architecture.
