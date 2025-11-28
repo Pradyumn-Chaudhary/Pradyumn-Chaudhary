@@ -85,6 +85,6 @@ I am a **Computer Science Undergraduate** at **MBM University (Class of '27)** a
 | :--- | :--- | :--- |
 | **Samadhan** | 🏙️ A Civic Governance Platform with geospatial routing for grievance redressal. | `React Native` `Node.js` `PostGIS` |
 | **Get Me A Chai** | ☕ A Crowdfunding SaaS platform with secure payments and OAuth. | `Next.js` `Razorpay` `NextAuth` |
-| **Telehealth MVP** | 🏥 Real-time video consultation platform built in 24 hours (Hackathon Winner). | `WebRTC` `Socket.io` `Express` |
+| **Jeevni** | 🏥 Real-time video consultation platform built in 24 hours. | `WebRTC` `Socket.io` `Express` |
 
 ---
