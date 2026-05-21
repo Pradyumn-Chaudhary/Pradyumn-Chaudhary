@@ -10,7 +10,7 @@
 <a href="https://leetcode.com/u/Pradyumn-Chaudhary/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="https://www.codechef.com/users/pradyumn">
+<a href="https://www.codechef.com/users/merry_shell_88">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 <a href="mailto:pradyumnchaudhary6@gmail.com">
