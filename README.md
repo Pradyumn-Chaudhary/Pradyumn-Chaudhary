@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Pradyumn%20Chaudhary&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20LeetCode%20Knight%20%7C%20Community%20Builder&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Pradyumn%20Chaudhary&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20De[...]
 </br> -->
   <a href="https://linkedin.com/in/pradyumnchaudhary">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -9,6 +9,9 @@
 </a>
 <a href="https://leetcode.com/u/Pradyumn-Chaudhary/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.codechef.com/users/pradyumn">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 <a href="mailto:pradyumnchaudhary6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
